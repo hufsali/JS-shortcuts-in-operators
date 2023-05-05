@@ -1,0 +1,40 @@
+let x=10,
+y=7;
+x=y (Assign x value of y)
+z=x+y;
+alert/console.log (z)
+----------x=x+2; is same as x+=2;
+or
+----------if x=x+y; is as x+=y;
+----------if x=x-y; is as x-=y;
+----------if x=x*y; is as x*=y;
+----------if x=x/y; is as x/=y;
+----------if x=x%y; is as x%=y;
+----------moduler % is used to find remainder.to find x/3's remainder x%3,
+
+----------to give power
+x=5;
+z=x**2;
+alert(x);
+it will pop up 25
+----------string and number cant be added or operated.
+x=5;
+y='5';
+x+y=55;
+but no space
+----------for space,
+console .log(x+" "+b);
+----------to add number in x
+x=x+1; is same as x++;
+----------to add one more number ++ operator, --operator
+x++;
+x++;
+x++;
+so on as much numbers you want.
+x--;
+----------BODMAS rule
+
+
+
+
+
